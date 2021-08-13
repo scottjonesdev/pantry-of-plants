@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.2.0)
+    erb (2.2.3)
+      cgi
+    kramdown (2.3.1)
+      rexml
+    rexml (3.2.5)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  erb (~> 2.2)
+  kramdown (~> 2.3)
+
+BUNDLED WITH
+   2.2.16
