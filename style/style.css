@@ -1,27 +1,19 @@
+/* -------------------------------------------------------------------------- */
+/* styling for home page */
 body {
 	font-family: "Helvetica", sans-serif;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
 	background-color: #F1F1F1;
 	color: #758B7A;
 }
 
-
-nav {
-	display: inline;
-}
-
-nav a {
-	font-size: 36px;
-	font-weight: bold;
-
-}
-
 .nav-text {
-	float: right;
-	padding-left: 40px;
-	margin-top: 74px;
+	padding-left: 10px;
+}
 
+.nav-text-outer {
+	text-align: right;
 }
 
 a {
@@ -31,12 +23,22 @@ a {
 	transition-duration: 0.5s;
 }
 
+nav {
+	display: block;
+	}
+
+nav a {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
 nav a:hover {
 	opacity: 50%;
 }
 
 .logo {
-	width: 500px;
+	width: 300px;
 }
 
 .content {
@@ -49,8 +51,12 @@ nav a:hover {
 footer {
 	padding-top: 20px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: bold;
+}
+
+footer p {
+	line-height: 0.5;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -61,7 +67,7 @@ footer {
 /* Slideshow container */
 .slideshow-container {
 	max-width: 100%;
-	padding: 80px 80px 20px 80px;
+	padding: 10px 10px 4px 10px;
 	position: relative;
 	margin: auto;
 }
@@ -74,8 +80,8 @@ footer {
 /* The dots/bullets/indicators */
 .dot {
 	cursor: pointer;
-	height: 15px;
-	width: 15px;
+	height: 10px;
+	width: 10px;
 	margin: 0 2px;
 	background-color: #F1F1F1;
 	border-radius: 50%;
@@ -108,38 +114,29 @@ footer {
 
 /* End of styling for image slideshow */
 /* -------------------------------------------------------------------------- */
+
 .home-links {
-	display: flex;
+	display: block;
 	text-align: center;
-	justify-content: center;
-	padding: 20px;
-	padding-bottom: 50px;
+	padding-bottom: 10px;
 }
 
 .button {
+	display: block;
+	padding: 10px;
+	margin: 20px;
 	border-radius: 20px;
 	background-color: #F1F1F1;
 	color: #758B7A;
-	width: 40%;
 	text-align: center;
-	margin-right: 50px;
-	margin-left: 50px;
 	font-weight: bold;
-	font-size: 36px;
+	font-size: 24px;
 	transition-duration: 0.5s;
 }
 
 .button:hover {
 	background-color: #B8C5BB;
 	color: #F1F1F1;
-}
-
-#explore {
-
-}
-
-#contact {
-	margin-left: 200px;
 }
 
 .mail {
@@ -151,12 +148,191 @@ footer {
 }
 
 .mail-1 {
-	width: 33px;
+	width: 26px;
 	margin-bottom: -4px;
 	transition-duration: 0.5s;
 }
 
 .mail-2 {
-	width: 20px;
-	margin-bottom: -4px;
+	width: 14px;
+	margin-bottom: -2px;
+}
+
+/* styling for home page */
+/* -------------------------------------------------------------------------- */
+
+@media only screen and (min-width: 355px) {
+	.logo {
+		width: 330px;
+	}
+}
+
+@media only screen and (min-width: 375px) {
+	.logo {
+		width: 353px;
+	}
+}
+
+@media only screen and (min-width: 385px) {
+
+	nav {
+		display: inline;
+	}
+
+	nav a, .button {
+		font-size: 18px;
+	}
+
+	.logo {
+		width: 200px;
+	}
+
+	.nav-text-outer {
+		float: right;
+		margin-top: 25px;
+	}
+
+	.dot {
+		height: 15px;
+		width: 15px;
+	}
+}
+
+@media only screen and (min-width: 500px) {
+	.logo {
+		width: 300px;
+	}
+	nav a, .button {
+		font-size: 20px;
+	}
+	.nav-text-outer {
+		margin-top: 45px;
+	}
+
+	.slideshow-container {
+		padding: 20px 20px 10px 20px;
+	}
+}
+
+
+@media only screen and (min-width: 604px) {
+
+	body {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
+	.logo {
+		width: 350px;
+	}
+
+	.nav-text {
+	}
+
+	nav a, .button {
+		font-size: 24px;
+	}
+
+	.nav-text-outer {
+		margin-top: 52px;
+	}
+
+	footer {
+		font-size: 18px;
+	}
+
+}
+
+@media only screen and (min-width: 800px) {
+
+	.button {
+		margin: 40px;
+	}
+	
+	nav a, .button {
+		font-size: 28px;
+	}
+
+	.nav-text-outer {
+		margin-top: 50px;
+	}
+
+	.slideshow-container {
+		padding: 40px 40px 20px 40px;
+	}
+}
+
+
+@media only screen and (min-width: 1107px) {
+
+	body {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	.logo {
+		width: 500px;
+	}
+
+	.nav-text {
+		padding-left: 40px;
+	}
+
+	nav a {
+		font-size: 36px;
+	}
+
+	.nav-text-outer {
+		margin-top: 74px;
+	}	
+
+	.slideshow-container {
+		padding: 80px 80px 20px 80px;
+	}
+
+	.button {
+		width: 40%;
+		text-align: center;
+		margin-right: 50px;
+		margin-left: 50px;
+		font-weight: bold;
+		font-size: 36px;
+		transition-duration: 0.5s;
+	}
+
+	#contact {
+		margin-left: 200px;
+	}
+
+	.home-links {
+		display: flex;
+		text-align: center;
+		justify-content: center;
+		padding: 20px;
+		padding-bottom: 50px;
+	}
+
+	.mail-1 {
+		width: 33px;
+		margin-bottom: -4px;
+	}
+
+	.mail-2 {
+		width: 20px;
+		margin-bottom: -4px;
+	}
+}
+
+@media only screen and (min-width: 1500px) {
+	body {
+		padding-left: 100px;
+		padding-right: 100px;
+	}
+}
+
+@media only screen and (min-width: 2000px) {
+	body {
+		padding-left: 200px;
+		padding-right: 200px;
+	}
 }
