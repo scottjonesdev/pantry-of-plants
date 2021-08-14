@@ -1,0 +1,162 @@
+body {
+	font-family: "Helvetica", sans-serif;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: #F1F1F1;
+	color: #758B7A;
+}
+
+
+nav {
+	display: inline;
+}
+
+nav a {
+	font-size: 36px;
+	font-weight: bold;
+
+}
+
+.nav-text {
+	float: right;
+	padding-left: 40px;
+	margin-top: 74px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #758B7A;
+	font: Helvetica;
+	transition-duration: 0.5s;
+}
+
+nav a:hover {
+	opacity: 50%;
+}
+
+.logo {
+	width: 500px;
+}
+
+.content {
+	background-color: #758B7A;
+	color: #F1F1F1;
+	border-radius: 20px;
+}
+
+
+footer {
+	padding-top: 20px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* -------------------------------------------------------------------------- */
+/* styling for image slideshow on home page */
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+	max-width: 100%;
+	padding: 80px 80px 20px 80px;
+	position: relative;
+	margin: auto;
+}
+
+/* Hide the images by default */
+.slides {
+	display: none;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+	margin: 0 2px;
+	background-color: #F1F1F1;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+	transition-duration: 0.5s;
+}
+
+.active, .dot:hover {
+	background-color: #B8C5BB;
+}
+
+/* Fading animation */
+.fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 2s;
+	animation-name: fade;
+	animation-duration: 2s;
+}
+
+@-webkit-keyframes fade {
+	from {opacity: .6} 
+	to {opacity: 1}
+}
+
+@keyframes fade {
+	from {opacity: .6} 
+	to {opacity: 1}
+}
+
+/* End of styling for image slideshow */
+/* -------------------------------------------------------------------------- */
+.home-links {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	padding: 20px;
+	padding-bottom: 50px;
+}
+
+.button {
+	border-radius: 20px;
+	background-color: #F1F1F1;
+	color: #758B7A;
+	width: 40%;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+	font-weight: bold;
+	font-size: 36px;
+	transition-duration: 0.5s;
+}
+
+.button:hover {
+	background-color: #B8C5BB;
+	color: #F1F1F1;
+}
+
+#explore {
+
+}
+
+#contact {
+	margin-left: 200px;
+}
+
+.mail {
+	transition-duration: 0.5s;
+}
+
+.mail:hover {
+	opacity: 50%;
+}
+
+.mail-1 {
+	width: 33px;
+	margin-bottom: -4px;
+	transition-duration: 0.5s;
+}
+
+.mail-2 {
+	width: 20px;
+	margin-bottom: -4px;
+}
