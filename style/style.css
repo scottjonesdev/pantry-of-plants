@@ -8,6 +8,10 @@ body {
 	color: #758B7A;
 }
 
+header {
+	padding-bottom: 8px;
+}
+
 .nav-text {
 	padding-left: 10px;
 }

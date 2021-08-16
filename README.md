@@ -21,8 +21,8 @@ bundle install
 and finally generate the blog!
 
 ```sh
-bin/build_blog
-open output/blog.html
+sh build_website.sh
+open output/index.html
 ```
 
 
