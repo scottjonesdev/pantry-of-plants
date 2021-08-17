@@ -25,4 +25,3 @@ sh build_website.sh
 open output/index.html
 ```
 
-

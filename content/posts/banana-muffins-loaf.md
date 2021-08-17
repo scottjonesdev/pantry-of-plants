@@ -14,13 +14,13 @@
 - 1 cup whole wheat flour
 - 1/4 tsp salt
 - 1 tsp baking soda
-- Vegan (Dairy Free) chocolate chips (optional)
+- Vegan 'Dairy Free' chocolate chips (optional)
 
 ##Instructions
-1. Heat oven to 350 degrees. If using cast iron pan heat it in oven.
+1. Heat oven to 350 degrees fahrenheit.
 2. Cream oil and sugar.
 3. Add mashed banana and baking soda.
-4. Add flour and salt and mix until combined (Do not over mix) 
+4. Add flour and salt and mix until combined. 
 5. Add chocolate chips if desired.
 
 
