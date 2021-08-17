@@ -15,5 +15,5 @@ def content
   return output
 end
 
-template = ERB.new(File.read('template.html.erb'))
+template = ERB.new(File.read('recipe-template.html.erb'))
 puts template.result(binding)

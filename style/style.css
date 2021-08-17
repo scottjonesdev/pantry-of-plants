@@ -45,7 +45,7 @@ nav a:hover {
 	width: 300px;
 }
 
-.content {
+.content, .recipe-content {
 	background-color: #B8C5BB;
 	color: #F1F1F1;
 	border-radius: 20px;
@@ -164,7 +164,7 @@ footer p {
 
 /* styling for home page */
 /* -------------------------------------------------------------------------- */
-#active {
+.active {
 	color: #B8C5BB;
 }
 
@@ -192,9 +192,19 @@ h1 {
 }
 
 .image-and-text {
+	margin-top: -30px;
 	padding: 10px;
-	align-items: center;
 }
+
+.recipe-content {
+	padding: 10px;
+}
+
+#recipe-image {
+	width: 100%;
+	text-align: center;
+}
+
 
 @media only screen and (min-width: 355px) {
 	.logo {
@@ -303,21 +313,23 @@ h1 {
 	}
 
 	.text {
-		width: 50%;
+		width: 100%;
 		padding: 6px;
 	}
 
 	.image {
-		width: 50%;
 		padding-bottom: 10px;
-		padding-right: 20px;
 	}
 
 	.image-and-text {
-		margin-top: -20px;
-		display: flex;
+		margin-top: -50px;
 		padding: 20px;
 	}
+
+	.recipe-content {
+		padding: 20px;
+	}
+
 }
 
 
@@ -381,9 +393,14 @@ h1 {
 	}
 
 	.image-and-text {
-		padding: 40px;
 		display: flex;
+		padding: 40px;
 	}
+
+	.recipe-content {
+		padding: 40px;
+	}
+
 
 	h1 {
 		font-size: 48px;
@@ -398,12 +415,6 @@ h1 {
 	.image {
 		padding-bottom: 10px;
 		padding-right: 40px;
-	}
-
-	.image-and-text {
-		margin-top: -20px;
-		display: flex;
-		padding: 40px;
 	}
 }
 
