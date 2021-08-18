@@ -2,7 +2,9 @@
 
 <div markdown=1 class="image-and-text">
 
+{::nomarkdown} 
 <img src="../images/placeholder/home3.jpg" class="image">
+{:/}
 
 <div markdown=1 class="text">
 
