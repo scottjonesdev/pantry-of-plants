@@ -1,4 +1,4 @@
-# Quick Vegan Yeasted Whole Wheat Bread {#recipe-title}
+# Quick Vegan Whole Wheat Maple Bread {#recipe-title}
 
 <div markdown=1 class="image-and-text">
 
