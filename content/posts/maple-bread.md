@@ -1,4 +1,4 @@
-# Quick Vegan Whole Wheat Maple Bread {#recipe-title}
+#Quick Vegan Whole Wheat Maple Bread {#recipe-title}
 
 <div markdown=1 class="image-and-text">
 
@@ -11,7 +11,7 @@
 ##Description
 This recipe is for a single loaf of whole wheat bread. This recipe is quick and easy! We will use the oven to do our dough rise which will save both time and effort.
 
-## Ingredients (1 loaf)
+##Ingredients (1 loaf)
 - 1/2 Tablespoon Active Dry Yeast or Traditional Yeast
 - 1/3 cup Maple Syrup or Sugar (any form of sugar will work)
 - 1 and 1/2 Cups or 425ml Warm Water

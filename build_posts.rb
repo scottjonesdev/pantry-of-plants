@@ -25,7 +25,6 @@ def filename
 	return file
 end
 
-
 i = 0
 while (i < content.length)
 	@content = content[i]
@@ -37,11 +36,3 @@ while (i < content.length)
 		end
 	i += 1
 end
-
-=begin
-filename.each do |file|
-	File.open(file, 'w') do |f|
-		f.write(template.result)
-	end
-end
-=end

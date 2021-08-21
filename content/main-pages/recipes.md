@@ -1,26 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Pantry of Plants</title>
-    <link rel="stylesheet" href="../style/style.css">
-    <script src="../scripts/image-slide.js" defer></script>
-  </head>
-
-  <body>
-    <header>
-	<nav>
-		<a href="index.html"><img src="../images/pantry-of-plants-logo.png" class="logo"></a>
-		<div class="nav-text-outer">
-			<a href="recipes.html" class="nav-text">Recipes</a>
-			<a href="about.html" class="nav-text">About</a>
-		</div>
-	</nav>
-</header>
-
-    <div class="content">
-      <div id="recipe-search">
+<div id="recipe-search">
 	<h1>Recipes</h1>
-	<input type="text" id="searchInput" onkeyup="search()" placeholder="Search recipes..." />
+	<input type="text" id="searchInput" onkeyup="search()" placeholder="Search recipes...">
 </div>
 
 <div id="recipe">
@@ -80,12 +60,3 @@
 	
 </script>
 
-
-    </div>
-    <footer>
-		<a href="mailto:scott@pantryofplants.ca" class="mail">Contact: scott@pantryofplants.ca <img src="../images/mail.svg" class="mail-2"></a>
-		<p>© 2021 Pantry of Plants</p>
-</footer>
-
-  </body>
-</html>

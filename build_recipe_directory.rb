@@ -7,9 +7,9 @@ end
 
 def content
   output = ""
-  Dir.foreach("./content/posts") do |post_filename|
-    if post_filename.include?("md")
-      output.concat(Kramdown::Document.new(File.read("./content/posts/#{post_filename}")).to_html)
+  Dir.foreach("./content/main-pages") do |post_filename|
+    if post_filename.include?("recipes.md")
+      output.concat(Kramdown::Document.new(File.read("./content/main-pages/#{post_filename}")).to_html)
     end
   end
   return output
