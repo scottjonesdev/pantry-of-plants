@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-ruby build_recipe_directory.rb > output/recipes.html
+ruby build-files/build_recipe_directory.rb > output/recipes.html
