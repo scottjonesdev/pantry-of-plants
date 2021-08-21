@@ -19,7 +19,7 @@ def filename
 	file = Array.new
 	Dir.foreach("./content/posts") do |post_filename|
 		if post_filename.include?("md")
-			file.push("output/#{post_filename}.html")
+			file.push("#{post_filename}.html")
 		end
 	end
 	return file

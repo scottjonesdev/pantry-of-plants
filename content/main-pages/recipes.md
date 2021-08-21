@@ -19,10 +19,10 @@
 	names[3] = "<p>Maple Bread</p>";
 
 	//recipe image links
-	images[0] = '<img src="../images/recipe-images/banana-muffin.JPG">';
-	images[1] = '<img src="../images/recipe-images/bread-3.JPG">';
-	images[2] = '<img src="../images/recipe-images/bread-3.JPG">';
-	images[3] = '<img src="../images/recipe-images/bread-3.JPG">';
+	images[0] = '<img src="images/recipe-images/banana-muffin.JPG">';
+	images[1] = '<img src="images/recipe-images/bread-3.JPG">';
+	images[2] = '<img src="images/recipe-images/bread-3.JPG">';
+	images[3] = '<img src="images/recipe-images/bread-3.JPG">';
 
 	//recipe hrefs
 	links[0] = '<a href="banana-muffins.md.html"</a>';

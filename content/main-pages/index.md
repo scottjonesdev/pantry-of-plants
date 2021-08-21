@@ -3,13 +3,13 @@
 	<div class="slideshow-container">
 		<!-- Full-width images with rounded edges -->
 		<div class="slides">
-			<img src="../images/recipe-images/bread-3.JPG" style="width:100%; border-radius:20px;">
+			<img src="images/recipe-images/bread-3.JPG" style="width:100%; border-radius:20px;">
 		</div>
 		<div class="slides">
-			<img src="../images/recipe-images/banana-muffin.JPG" style="width:100%; border-radius:20px;">
+			<img src="images/recipe-images/banana-muffin.JPG" style="width:100%; border-radius:20px;">
 		</div>
 		<div class="slides">
-			<img src="../images/placeholder/home3.jpg" style="width:100%; border-radius:20px;">
+			<img src="images/placeholder/home3.jpg" style="width:100%; border-radius:20px;">
 		</div>
 	</div>
 	<!-- The dots/circles -->
@@ -23,7 +23,7 @@
 			<p>Explore Recipes</p>
 		</a>
 		<a class="button" id="contact" href="mailto:scott@pantryofplants.ca">
-			<p>Contact <img src="../images/mail.svg" class="mail-1"></p>
+			<p>Contact <img src="images/mail.svg" class="mail-1"></p>
 		</a>
 	</div>
 </div>

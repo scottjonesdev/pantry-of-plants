@@ -3,7 +3,7 @@
 <div markdown=1 class="image-and-text">
 
 {::nomarkdown} 
-<img src="../images/recipe-images/banana-muffin.JPG" class="image">
+<img src="images/recipe-images/banana-muffin.JPG" class="image">
 {:/}
 
 <div markdown=1 class="text">
