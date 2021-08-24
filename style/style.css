@@ -53,6 +53,7 @@ nav a:hover {
 
 .footnotes {
 	font-weight: normal;
+	font-size: 0.9rem;
 
 }
 
@@ -183,12 +184,13 @@ footer p {
 	font-size: 16px;
 }
 
-.image {
+.image, .image-in-recipe {
 	border-radius: 20px;
 	width: 100%;
 	margin-bottom: 10px;
 	margin-top: 10px;
 }
+
 
 h1 {
 	font-size: 28px;
@@ -303,8 +305,14 @@ ol li::before {
   opacity: 1; /* Firefox */
 }
 
-
-
+hr {
+	width: 92%;
+	height: 2px;
+	border: none;
+	border-radius: 20px;
+	color: #B8C5BB;
+	background-color: #B8C5BB;
+}
 
 @media only screen and (min-width: 355px) {
 	.logo {
@@ -425,7 +433,7 @@ ol li::before {
 
 	.text {
 		width: 100%;
-		padding: 6px;
+		padding: 8px;
 	}
 
 	.image {

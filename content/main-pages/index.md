@@ -9,7 +9,7 @@
 			<img src="images/recipe-images/banana-muffin.JPG" style="width:100%; border-radius:20px;">
 		</div>
 		<div class="slides">
-			<img src="images/placeholder/home3.jpg" style="width:100%; border-radius:20px;">
+			<img src="images/recipe-images/pizza.JPG" style="width:100%; border-radius:20px;">
 		</div>
 	</div>
 	<!-- The dots/circles -->

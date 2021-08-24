@@ -3,7 +3,7 @@
 <div markdown=1 class="image-and-text">
 
 {::nomarkdown} 
-<img src="images/recipe-images/banana-muffin.JPG" class="image">
+<img src="images/recipe-images/banana-muffin.JPG" class="image" alt="Banana muffins">
 {:/}
 
 <div markdown=1 class="text">
@@ -33,6 +33,8 @@ This recipe is adapted from my great grandmother’s Banana Loaf recipe. It Work
 9. Grease Muffin Pan or Loaf pan with Coconut Oil.
 10. Add muffin batter to pan.
 11. Bake until brown on top and firm to the touch.[^1]
+
+***
 
 [^1]:For muffins bake approx 25-30 minutes.
 	For Loaf bake approx 50-60 minutes.
