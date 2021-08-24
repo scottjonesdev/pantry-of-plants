@@ -170,8 +170,9 @@ footer p {
 
 /* styling for home page */
 /* -------------------------------------------------------------------------- */
-.active {
+a.nav-text.active {
 	color: #B8C5BB;
+	background-color: #F1F1F1;
 }
 
 .text {
