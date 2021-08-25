@@ -21,12 +21,12 @@
 	names[5] = "<p>Kale Salad</p>";
 
 	//recipe image links
-	images[0] = '<img src="images/recipe-images/banana-muffin.JPG">';
-	images[1] = '<img src="images/recipe-images/bread-3.JPG">';
-	images[2] = '<img src="images/recipe-images/croutons-2.JPG">';
-	images[3] = '<img src="images/recipe-images/chocolate-chip-muffins.JPG">';
-	images[4] = '<img src="images/recipe-images/pizza.JPG">';
-	images[5] = '<img src="images/recipe-images/kale-salad.JPG">';
+	images[0] = '<img src="images/recipe-images/banana-muffin.JPG" alt="Banana Muffins">';
+	images[1] = '<img src="images/recipe-images/bread-3.JPG" alt="Maple Bread">';
+	images[2] = '<img src="images/recipe-images/croutons-2.JPG" alt="Croutons">';
+	images[3] = '<img src="images/recipe-images/chocolate-chip-muffins.JPG" alt="Chocolate Chip Muffins">';
+	images[4] = '<img src="images/recipe-images/pizza.JPG" alt="Pizza">';
+	images[5] = '<img src="images/recipe-images/kale-salad.JPG" alt="Kale Salad">';
 
 	//recipe hrefs
 	links[0] = '<a href="banana-muffins.md.html"</a>';

@@ -19,7 +19,7 @@ Quick to make, nutritious, and delicious. This salad is great for a light lunch 
 - Salt [^4]
 - Pepper
 - 1 tbsp Nutritional Yeast
-- Croutons (optional)
+- <a href="croutons.md.html" target="_blank">Croutons</a> (optional)
 
 ##Instructions
 1. Pull Kale off Kale leaf stems.
@@ -30,6 +30,10 @@ Quick to make, nutritious, and delicious. This salad is great for a light lunch 
 6. Massage the dressing into the Kale with your hands. 
 7. Add croutons to salad.
 8. Serve on a plate with extra Nutritional Yeast sprinkled on top. 
+
+{::nomarkdown} 
+<img src="images/recipe-images/kale-dressing.JPG" class="image-in-recipe" alt="Kale and dressing ready to be combined">
+{:/}
 
 ***
 

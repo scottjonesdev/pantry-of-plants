@@ -1,7 +1,7 @@
 <div class="content">
 <h1>About</h1>
 <div class="image-and-text">
-<img src="images/about.jpeg" class="image">
+<img src="images/about.jpeg" class="image" alt="A picture of me and my dog">
 
 <div markdown=1 class="text">
 
@@ -9,10 +9,9 @@ Hi, my name is Scott and I have been vegan since late 2019.
 
 Going vegan has only increased my passion for cooking and my love of food. Since changing my diet, I have reframed my approach to meals and adapted several of my old recipes to suit an animal friendly lifestyle.
 
-I decided to make this website to share some of my vegan recipes with the world. Feel free to send me an email if you have any questions or feedback regarding my content. 
+I created this website to share some of my vegan recipes with the world. I hope you enjoy thme! Feel free to send me an email if you have any questions or feedback regarding my content. 
 
-Note: Baking is my culinary passion; as a result, most of my recipes are for baked goods. These recipes are not designed to be healthy (though some of them are). They are simply meant to be delicious. 
-
+I also make ambient electronic music. You can check it out <a href="https://scottjoneselectronica.com" target="_blank">here</a>.
 
 <h4>Here are some links to helpful vegan resources:</h4>
 <ul>

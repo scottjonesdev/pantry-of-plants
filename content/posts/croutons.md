@@ -9,7 +9,7 @@
 <div markdown=1 class="text">
 
 ##Description
-Croutons are a great way to repurpose old bread. They are quick, easy to make, and delicious! I like to use mine in Kale salad. 
+Croutons are a great way to repurpose old bread. They are quick, easy to make, and delicious! I like to use mine in <a href="kale-salad.md.html" target="_blank">Kale salad</a>. 
 
 ##Ingredients
 - Bread (Any bread will do!)
