@@ -9,7 +9,7 @@ Hi, my name is Scott and I have been vegan since late 2019.
 
 Going vegan has only increased my passion for cooking and my love of food. Since changing my diet, I have reframed my approach to meals and adapted several of my old recipes to suit an animal friendly lifestyle.
 
-I created this website to share some of my vegan recipes with the world. I hope you enjoy thme! Feel free to send me an email if you have any questions or feedback regarding my content. 
+I created this website to share some of my vegan recipes with the world. I hope you enjoy them! Feel free to send me an email if you have any questions or feedback regarding my content. 
 
 I also make ambient electronic music. You can check it out <a href="https://scottjoneselectronica.com" target="_blank">here</a>.
 
