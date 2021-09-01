@@ -20,6 +20,7 @@
 	names[4] = "<p>Pizza Dough</p>";
 	names[5] = "<p>Kale Salad</p>";
 	names[6] = "<p>Apple Pie</p>";
+	names[7] = "<p>Cinnamon Buns</p>";
 
 	//recipe image links
 	images[0] = '<img src="images/thumbnails/banana-muffin.JPG" alt="Banana Muffins">';
@@ -29,6 +30,7 @@
 	images[4] = '<img src="images/thumbnails/pizza.JPG" alt="Pizza">';
 	images[5] = '<img src="images/thumbnails/kale-salad.JPG" alt="Kale Salad">';
 	images[6] = '<img src="images/thumbnails/apple-pie.JPG" alt="Apple Pie">';
+	images[7] = '<img src="images/thumbnails/cinnamon-buns.JPG" alt="Cinnamon Buns">';
 
 	//recipe hrefs
 	links[0] = '<a href="banana-muffins.md.html"</a>';
@@ -38,6 +40,7 @@
 	links[4] = '<a href="pizza-dough.md.html"</a>';
 	links[5] = '<a href="kale-salad.md.html"</a>';
 	links[6] = '<a href="apple-pie.md.html"</a>';
+	links[7] = '<a href="cinnamon-buns.md.html"</a>';
 
 	//show arrays in console
 	console.log(names, images, links);
