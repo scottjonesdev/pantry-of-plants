@@ -16,7 +16,7 @@ At home I like to cook my pizzas on a Barbecue using a pizza stone. It yields re
 ##Ingredients (Yields 2 thin crust pizzas)
 - 1 tsp Yeast
 - 3 tsp Sugar
-- 200ml Warm Water
+- 175ml Warm Water
 - 1 tbsp Extra Virgin Olive Oil
 - 1 1/2 Cups Flour
 - 1/4 tsp Salt
