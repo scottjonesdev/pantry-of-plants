@@ -1,4 +1,4 @@
-# pantry-of-plants
+sh# pantry-of-plants
 
 The making of a new vegan cooking/baking blog with a focus on simplicity and legibility.
 
