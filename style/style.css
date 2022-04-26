@@ -1,6 +1,11 @@
-input[type=text], input[type=button], input[type="submit"] {
+input[type=text], input[type=button]{
 	-webkit-appearance: none;
 	-webkit-border-radius: 0;
+}
+
+input[type="submit"] {
+	-webkit-appearance: none;
+	-webkit-border-radius: 8px;
 }
 /* -------------------------------------------------------------------------- */
 /* styling for home page */
