@@ -11,7 +11,7 @@ Going vegan has only increased my passion for cooking and my love of food. Since
 
 I created this website to share some of my vegan recipes with the world. I hope you enjoy them! Feel free to send me an email if you have any questions or feedback regarding my content. 
 
-I also make ambient electronic music. You can check it out <a href="https://scottjoneselectronica.com" target="_blank">here</a>.
+I also make ambient electronic music. You can check it out <a href="https://treenotemusic.ca" target="_blank">here</a>.
 
 <h4>Here are some links to helpful vegan resources:</h4>
 <ul>
