@@ -3,7 +3,7 @@
 <div markdown=1 class="image-and-text">
 
 {::nomarkdown} 
-<img src="images/recipe-images/pizza-dough.JPG" class="image" alt="Chocolate Chip Muffins">
+<img src="images/recipe-images/pizza-dough.JPG" class="image" alt="Pizza Dough">
 {:/}
 
 <div markdown=1 class="text">
@@ -11,7 +11,7 @@
 ##Description
 For several years I worked as a line cook that made wood fire pizzas. This dough recipe is a modified and significantly scaled down version of the dough recipe I used to make at work. It is strong enough to be stretched in the traditional Italian way. You can also roll it out with a rolling pin if that’s what you are comfortable with.
 
-At home I like to cook my pizzas on a Barbecue using a pizza stone. It yields results very close to a wood fire oven. That being said, this recipe also works great being baked on a sheet pan baked in a regular oven too.
+At home I like to cook my pizzas on a Barbecue using a pizza stone. It yields results very close to a wood fire oven. That being said, this recipe also works great on a sheet pan or cast iron pan in a regular oven.
 
 ##Ingredients (Yields 2 thin crust pizzas)
 - 1 tsp Yeast
