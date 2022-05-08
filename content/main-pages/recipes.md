@@ -59,6 +59,11 @@
 			name: '<p>Brownies</p>', 
 			image: '<img src="images/thumbnails/brownies.JPG" alt="Brownies">',
 			link: '<a href="brownies.md.html"</a>'
+		},
+		{
+			name: '<p>Focaccia</p>', 
+			image: '<img src="images/thumbnails/quick-focaccia.JPG" alt="focaccia">',
+			link: '<a href="focaccia.md.html"</a>'
 		}
 	];
 
