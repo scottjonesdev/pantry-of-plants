@@ -64,6 +64,11 @@
 			name: '<p>Focaccia</p>', 
 			image: '<img src="images/thumbnails/quick-focaccia.JPG" alt="focaccia">',
 			link: '<a href="focaccia.md.html"</a>'
+		},
+		{
+			name: '<p>Squash Soup</p>', 
+			image: '<img src="images/thumbnails/squash-soup.JPG" alt="Squash Soup">',
+			link: '<a href="squash-soup.md.html"</a>'
 		}
 	];
 
