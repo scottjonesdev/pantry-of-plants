@@ -12,14 +12,14 @@
 This recipe is adapted from my great grandmother’s Banana Loaf recipe. It Works great as a loaf or muffins. No need for a proper egg substitute in this recipe as the bananas accomplish this on their own. For the oil I strongly recommend using Coconut Oil as it yields a buttery flavour and texture. 
 
 ##Ingredients
-- 1/4 cup Oil (Coconut or other)
-- 1 cup Sugar
+- 1/4 cup oil (coconut or other)
+- 1 cup sugar
 - 3 or 4 bananas (depending on size: 3 large or 4 small) Approx: 1 cup
 - 1/2 cup white flour
 - 1 cup whole wheat flour
 - 1/4 tsp salt
 - 1 tsp baking soda
-- Vegan 'Dairy Free' chocolate chips (optional)[^2]
+- Vegan 'dairy free' chocolate chips (optional)[^2]
 
 ##Instructions
 1. Heat oven to 350 degrees Fahrenheit.

@@ -12,17 +12,17 @@
 Simple and delicious Vegan Buttermilk Chocolate Chip Muffins. Adapted from the non-vegan version my mom used to make for me when I was a kid. For this recipe we are using Vegan Yogurt as our egg substitute!
 
 ##Ingredients
-- 3/4 Cup Almond Milk [^1]
-- 1 tbsp White Vinegar or Apple Cider Vinegar
-- 1/2 Cup Oil (Coconut or other)
-- 1/3 Cup Sugar
-- 1/4 Cup Plain Vegan Yogurt [^2]
-- 1 tsp Vanilla Extract
-- 1/2 Cup Whole Wheat Flour [^3]
-- 1 1/2 Cup White Flour
-- 3 tsp Baking Powder
-- 1 tsp Salt
-- 1 Cup Vegan 'Dairy Free' chocolate chips [^4]
+- 3/4 Cup plan milk (soy, oat, almond)
+- 1 tbsp white vinegar or apple cider vinegar
+- 1/2 Cup oil (Coconut or other)
+- 1/3 Cup sugar
+- 1/4 Cup plain vegan yogurt [^1]
+- 1 tsp vanilla extract
+- 1/2 Cup whole wheat flour [^2]
+- 1 1/2 Cup white flour
+- 3 tsp baking powder
+- 1 tsp salt
+- 1 Cup vegan 'dairy free' chocolate chips [^3]
 
 ##Instructions
 1. Heat oven to 375 degrees Fahrenheit.
@@ -39,13 +39,11 @@ Simple and delicious Vegan Buttermilk Chocolate Chip Muffins. Adapted from the n
 
 ***
 
-[^1]: I like to use [Califia Unsweetened Almond](https://vegansupply.ca/products/califia-farms-unsweetened-almond-milk-1-4l) for baking as it lacks fortification. In my experience, fortified milks can impact the baking chemistry and yield unpredictable results. That being said, any plant milk should work. I have also successfully used Earth’s Own Oat Milk for this recipe in the past.
+[^1]: Vegan Yogurt makes a great egg substitute. It is my go to replacement for recipes like this. I use [Riviera: Coconut Milk Vegan, Plain](https://vegansupply.ca/products/riviera-natural-flavour-yogurt-650g) for baking. If you don’t have vegan yogurt on hand, a flax egg (1 tbsp ground flaxseed meal with 3 tbsp of water) should also work fine in this recipe.
 
-[^2]: Vegan Yogurt makes a great egg substitute. It is my go to replacement for recipes like this. I use [Riviera: Coconut Milk Vegan, Plain](https://vegansupply.ca/products/riviera-natural-flavour-yogurt-650g) for baking. If you don’t have vegan yogurt on hand, a flax egg (1 tbsp ground flaxseed meal with 3 tbsp of water) should also work fine in this recipe.
+[^2]: I like to make this recipe with part white flour, part whole wheat. You can make it entirely with white flour if you prefer.
 
-[^3]: I like to make this recipe with part white flour, part whole wheat. You can make it entirely with white flour if you prefer.
-
-[^4]:For Vegan chocolate chips I recommend reading the ingredients rather than looking for ones that are advertised as Vegan. Most semi-sweet chocolate chips other than ‘Chipits’ are dairy free. Bakers semi-sweet is a good option. Enjoy Life are a good option if you need to avoid other potential allergens like soy. Personally I find them overpriced compared to grocery store house brands or Bakers. 
+[^3]:For Vegan chocolate chips I recommend reading the ingredients rather than looking for ones that are advertised as Vegan. Most semi-sweet chocolate chips other than ‘Chipits’ are dairy free. Bakers semi-sweet is a good option. Enjoy Life are a good option if you need to avoid other potential allergens like soy. Personally I find them overpriced compared to grocery store house brands or Bakers. 
 
 * footnotes will be placed here. This line is necessary
 {:footnotes}

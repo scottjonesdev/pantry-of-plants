@@ -12,19 +12,19 @@
 This is one of my favourite soups to make. It is delicious paired with <a href="focaccia.md.html" target="_blank">focaccia bread</a> or <a href="kale-salad.md.html" target="_blank">kale salad</a>. 
 
 ##Ingredients
-- 1 Kabocha Squash[^1]
-- 1 Butternut Squash
-- 4-6 cups Water + 2 tsp Veggie Bouillon or 4-6 cups Veggie Stock[^2]
-- 1 Carrot
-- 1 Onion
-- 1 Celery Stick
-- 2 Cloves of Garlic
-- Olive Oil
+- 1 kabocha squash[^1]
+- 1 butternut squash
+- 4-6 cups water + 2 tsp veggie bouillon or 4-6 cups veggie stock[^2]
+- 1 carrot
+- 1 onion
+- 1 celery stick
+- 2 cloves of garlic
+- Olive oil
 - Salt
 - Pepper
 - Paprika
-- Oat Milk (or other plant milk)
-- Fresh Parsley
+- Oat milk (or other plant milk)
+- Fresh parsley
 
 ##Instructions
 1. Preheat oven to 425 degrees Fahrenheit.

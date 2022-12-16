@@ -13,23 +13,23 @@ Quick to make, nutritious, and delicious. This salad is great for a light lunch 
 
 ##Ingredients (Individual Portion)[^1]
 - Kale [^2]
-- 1 tbsp Extra Virgin Olive Oil
-- 1/2 tbsp Lemon Juice or Balsamic Vinegar or Apple Cider Vinegar [^3]
-- 1/4 tsp Garlic Powder
+- 1 tbsp extra virgin olive oil
+- 1/2 tbsp lemon juice or balsamic vinegar or apple cider vinegar [^3]
+- 1/4 tsp garlic powder
 - Salt [^4]
 - Pepper
-- 1 tbsp Nutritional Yeast
+- 1 tbsp nutritional yeast
 - <a href="croutons.md.html" target="_blank">Croutons</a> (optional)
 
 ##Instructions
-1. Pull Kale off Kale leaf stems.
-2. Chop up Kale into small pieces and put them in an appropriately sized bowl.
-3. Mix Olive Oil, acid of choice, and garlic powder in a small bowl.
+1. Pull kale off kale leaf stems.
+2. Chop up kale into small pieces and put them in an appropriately sized bowl.
+3. Mix olive oil, acid of choice, and garlic powder in a small bowl.
 4. Add salt and pepper to the dressing to taste.
-5. Add Nutritional Yeast and dressing to kale. [^5]
+5. Add nutritional yeast and dressing to kale. [^5]
 6. Massage the dressing into the Kale with your hands. 
 7. Add croutons to salad.
-8. Serve on a plate with extra Nutritional Yeast sprinkled on top. 
+8. Serve on a plate with extra nutritional yeast sprinkled on top. 
 
 {::nomarkdown} 
 <img src="images/recipe-images/kale-dressing.JPG" class="image-in-recipe" alt="Kale and dressing ready to be combined">

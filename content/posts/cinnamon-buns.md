@@ -12,19 +12,19 @@
 One of my favourite baked goods. They make a lovely treat for brunch. 
 
 ##Ingredients (Dough)
-- 1 Cup Almond Milk[^1]
-- 1/4 Cup Vegan Yogurt[^2]
-- 3 Cups All Purpose Flour
-- 3 Tbsp Sugar
-- 1/2 Tsp Salt
-- 4 Tbsp Vegan Butter
-- 1 1/2 Tsp Active Dry Yeast or Fast Rise Yeast
+- 1 cup plant milk (soy, oat, almond)
+- 1/4 Cup vegan yogurt or 1/4 Cup applesauce[^1]
+- 3 Cups all purpose flour
+- 3 Tbsp sugar
+- 1/2 Tsp salt
+- 4 Tbsp vegan butter (or coconut oil)
+- 1 1/2 Tsp active dry yeast or fast rise yeast
 
 ##Ingredients (Filling / Topping)
-- Ground Cinnamon 
-- Brown Sugar
-- Melted Vegan Butter
-- Coconut Oil (to grease baking dish)
+- Ground cinnamon 
+- Brown sugar
+- Melted vegan butter (or coconut oil)
+- Coconut oil (to grease baking dish)
 
 ##Instructions
 
@@ -41,7 +41,7 @@ If you have a bread machine you can load it with the dough ingredients and set y
 3. Once almond milk is warm, add it to the yeast and sugar mixture. Give it a few stirs and let it sit for 5 minutes to activate the yeast. 
 4. Once your mixture is looking frothy, add melted vegan butter, vegan yogurt, flour, and salt.
 5. Mix / knead ingredients until bowl is clean. Approximately 5-10 minutes.
-6. Once the dough is kneaded, place it in a bowl that is greased with vegan butter and cover it. I use a bowl that has a lid. A kitchen towel, or saran wrap would also work. 
+6. Once the dough is kneaded, place it in a bowl that is greased with vegan butter or coconut oil and cover it. I use a bowl that has a lid. A kitchen towel, or saran wrap will also work. 
 7. Let dough rise for 1 1/2 to 2 hours.
 
 ***
@@ -65,9 +65,7 @@ If you have a bread machine you can load it with the dough ingredients and set y
 
 ***
 
-[^1]: I like to use [Califia Unsweetened Almond](https://vegansupply.ca/products/califia-farms-unsweetened-almond-milk-1-4l) for baking as it lacks fortification. In my experience, fortified milks can impact the baking chemistry and yield unpredictable results. That being said, any plant milk should work. I have also successfully used Earth’s Own Oat Milk for this recipe in the past.
-
-[^2]: Vegan Yogurt makes a great egg substitute. It is my go to replacement for recipes like this. I use [Riviera: Coconut Milk Vegan, Plain](https://vegansupply.ca/products/riviera-natural-flavour-yogurt-650g) for baking.
+[^1]: Vegan yogurt makes a great egg substitute. It is my go to replacement for recipes like this. I use [Riviera: Coconut Milk Vegan, Plain](https://vegansupply.ca/products/riviera-natural-flavour-yogurt-650g) for baking. Applesauce will also work in this recipe.
 
 * footnotes will be placed here. This line is necessary
 {:footnotes}

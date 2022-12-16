@@ -13,26 +13,26 @@ For several years I worked as a line cook that made wood fire pizzas. This dough
 
 At home I like to cook my pizzas on a Barbecue using a pizza stone. It yields results very close to a wood fire oven. That being said, this recipe also works great on a sheet pan or cast iron pan in a regular oven.
 
-##Ingredients (Yields 2 thin crust pizzas)
-- 1 tsp Yeast
-- 3 tsp Sugar
-- 175ml Warm Water
-- 1 tbsp Extra Virgin Olive Oil
-- 1 1/2 Cups Flour
-- 1/4 tsp Salt
+##Ingredients (yields 2 thin crust pizzas)
+- 1 tsp yeast
+- 3 tsp sugar
+- 175ml warm water
+- 1 tbsp extra virgin olive oil
+- 1 1/2 cups flour
+- 1/4 tsp salt
 
 ##Instructions
-1. Add Yeast and Sugar to Large Mixing Bowl or Stand Mixer if you have one.
+1. Add yeast and sugar to large mixing bowl or stand mixer if you have one.
 2. Add warm water to sugar and yeast mixture and give it a few stirs.
 3. Let the yeast proof for approximately 5 minutes. (It should look foamy when it's done).
-4. Add Olive Oil, flour and salt to mixing bowl. 
+4. Add olive oil, flour and salt to mixing bowl. 
 5. Mix / knead ingredients until bowl is clean.[^1]
-6. Grease a sheet pan with Olive Oil.
+6. Grease a sheet pan with olive oil.
 7. Once dough is adequately kneaded separate into 2 even balls and place on sheet pan. Cover dough with a kitchen towel until double in size.
 8. Once doubled, you are ready to stretch or roll out your doughs and make some pizza!
 
 ##Pizza Pictured below
-Vegan Garlic Butter base, Daiya Mozzarella, fried Seitan, caramelized onions, sautéed Kale, sautéed Mushrooms, fresh Arugula. 
+Vegan garlic butter base, Daiya mozzarella, fried Seitan, caramelized onions, sautéed Kale, sautéed Mushrooms, fresh Arugula. 
 
 {::nomarkdown} 
 <img src="images/recipe-images/pizza.JPG" class="image-in-recipe" alt="Pizza">
