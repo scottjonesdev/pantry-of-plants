@@ -12,15 +12,15 @@
 A classic treat reinvented without the needless dairy or egg. I enjoy paring these with vegan ice cream. My favourite to pair it with is the [So Delicious salted caramel cluster](https://shop.sodeliciousdairyfree.com/products/salted-caramel-cluster-cashewmilk-frozen-dessert). 
 
 ##Ingredients
-- 1/4 Cup Coconut Oil
-- 1/4 Cup Vegan Butter
-- 1 Cup Sugar (granulated, brown, or a mix)
-- 1/2 Cup Plain Vegan Yogurt or 1/2 Cup Almond Milk[^1]
-- 2/3 Cup All Purpose Flour
-- 1/2 Cup Cocoa
-- 1/2 Tsp Baking Powder
+- 1/4 Cup coconut oil
+- 1/4 Cup vegan butter
+- 1 Cup sugar (granulated, brown, or a mix)
+- 1/2 Cup plain vegan yogurt or 1/2 Cup plant milk (soy, oat, almond)[^1]
+- 2/3 Cup all purpose flour
+- 1/2 Cup cocoa
+- 1/2 Tsp baking powder
 - 1/2 tsp salt
-- 1/2 Cup Chocolate Chips (optional)[^2]
+- 1/2 Cup chocolate chips (optional)[^2]
 
 ##Instructions
 1. Heat oven to 350 degrees Fahrenheit.
@@ -39,7 +39,7 @@ A classic treat reinvented without the needless dairy or egg. I enjoy paring the
 
 ***
 
-[^1]: Vegan Yogurt makes a great egg substitute. It is my go to replacement for recipes like this. I use [Riviera: Coconut Milk Vegan, Plain](https://vegansupply.ca/products/riviera-natural-flavour-yogurt-650g) for baking. If you don’t have vegan yogurt on hand, a flax egg (1 tbsp ground flaxseed meal with 3 tbsp of water) should also work fine in this recipe. If you are using almond milk I recommend using [Califia Unsweetened Almond](https://vegansupply.ca/products/califia-farms-unsweetened-almond-milk-1-4l).
+[^1]: Vegan Yogurt makes a great egg substitute. It is my go to replacement for recipes like this. I use [Riviera: Coconut Milk Vegan, Plain](https://vegansupply.ca/products/riviera-natural-flavour-yogurt-650g) for baking. If you don’t have vegan yogurt on hand, a flax egg (1 tbsp ground flaxseed meal with 3 tbsp of water) should also work fine in this recipe. 
 
 [^2]:For Vegan chocolate chips I recommend reading the ingredients rather than looking for ones that are advertised as Vegan. Most semi-sweet chocolate chips other than ‘Chipits’ are dairy free. Bakers semi-sweet is a good option. Enjoy Life are a good option if you need to avoid other potential allergens like soy. Personally I find them overpriced compared to grocery store house brands or Bakers. 
 

@@ -12,18 +12,18 @@
 Based off my <a href="pizza-dough.md.html" target="_blank">Pizza Dough</a> recipe, this is a quick way to make a focaccia style loaf. I like pairing it with soup or pasta. 
 
 ##Ingredients (Yields 1 loaf)
-- 1 tsp Yeast
-- 3 tsp Sugar
-- 175ml Warm Water
-- 1 tbsp Extra Virgin Olive Oil
-- 1 1/2 Cups Flour
-- 1/4 tsp Salt
+- 1 tsp yeast
+- 3 tsp sugar
+- 175ml warm water
+- 1 tbsp extra virgin olive oil
+- 1 1/2 Cups flour
+- 1/4 tsp salt
 
 ##Instructions
-1. Add Yeast and Sugar to Large Mixing Bowl or Stand Mixer if you have one.
+1. Add yeast and sugar to a large mixing bowl or stand mixer if you have one.
 2. Add warm water to sugar and yeast mixture and give it a few stirs.
 3. Let the yeast proof for approximately 5 minutes. (It should look foamy when it's done).
-4. Add Olive Oil, flour and salt to mixing bowl. 
+4. Add olive oil, flour and salt to mixing bowl. 
 5. Mix / knead ingredients until bowl is clean.[^1]
 6. Grease a medium to large mixing bowl with Olive Oil.
 7. Once dough is adequately kneaded place in mixing bowl and cover with a kitchen towel or lid.

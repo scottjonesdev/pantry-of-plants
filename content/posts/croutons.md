@@ -13,10 +13,10 @@ Croutons are a great way to repurpose old bread. They are quick, easy to make, a
 
 ##Ingredients
 - Bread (Any bread will do!)
-- Olive Oil
+- Olive oil
 - Salt
 - Pepper
-- Garlic Powder
+- Garlic powder
 
 ##Instructions
 1. Heat oven to 425 degrees Fahrenheit.

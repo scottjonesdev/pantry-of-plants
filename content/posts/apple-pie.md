@@ -16,11 +16,11 @@ This recipe is based on the recipe my grandpa makes; just altered to be vegan fr
 ###Pie Crust / Pastry
 
 ##Ingredients (Yields a 9 inch 2 crust pie)
-- 2/3 Cup Vegetable Shortening
-- 2 Tbsp Vegan Butter
-- 2 Cups All Purpose Flour
-- 1 Tsp Salt
-- 5 to 6 Tbsp Cold Water
+- 2/3 Cup vegetable shortening
+- 2 Tbsp vegan butter (or coconut oil)
+- 2 Cups all purpose flour
+- 1 Tsp salt
+- 5 to 6 Tbsp cold water
 
 ##Instructions
 1. Place shortening and vegan butter in freezer to chill it down.[^1]
@@ -36,15 +36,15 @@ This recipe is based on the recipe my grandpa makes; just altered to be vegan fr
 
 ##Ingredients
 - Pastry (prepared above) 
-- 1/2 Cup Brown Sugar
-- 1/4 Cup Granulated Sugar
-- 1/4 Cup All Purpose Flour
-- 1/8 Tsp Salt
-- 1 Tsp Ground Nutmeg
-- 1 Tsp Ground Cinnamon
+- 1/2 Cup brown sugar
+- 1/4 Cup granulated sugar
+- 1/4 Cup all purpose flour
+- 1/8 Tsp salt
+- 1 Tsp ground nutmeg
+- 1 Tsp ground cinnamon
 - 6 Cups of sliced and peeled apples. I find this is usually around 6 average apples. You will need more if your apples are small.
-- 2 Tbsp Vegan Butter
-- A little bit of Almond Milk and Granulated Sugar (This is to brush on the top of the pie)
+- 2 Tbsp vegan butter (or coconut oil)
+- A little bit of plant milk (soy, almond, or oat) and granulated sugar (This is to brush on the top of the pie)
 
 ##Instructions
 1. Heat oven to 425 degrees Fahrenheit.
